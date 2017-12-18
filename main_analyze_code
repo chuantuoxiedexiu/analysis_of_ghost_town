@@ -9,7 +9,7 @@ import numpy
 import re
 import datetime
 #from lxml import etree
-# import  sys
+
 # reload(sys)
 # sys.setdefaultencoding('utf-8')
 #ghost_city_hanzi=['威海','吴忠','滁州','承德','绍兴','鄂尔多斯']
