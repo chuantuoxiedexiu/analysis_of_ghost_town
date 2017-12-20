@@ -8,7 +8,6 @@ import matplotlib.pyplot as plt
 import numpy
 import re
 import datetime
-#from lxml import etree
 #ghost_city_hanzi=['威海','吴忠','滁州','承德','绍兴','鄂尔多斯']
 #ghost_city_pinyin=['Weihai','Wuzhong','Chuzhou','Chengde','Shaoxing','Eerduosi']
 
