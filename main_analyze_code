@@ -10,7 +10,6 @@ import re
 import datetime
 #ghost_city_hanzi=['威海','吴忠','滁州','承德','绍兴','鄂尔多斯']
 #ghost_city_pinyin=['Weihai','Wuzhong','Chuzhou','Chengde','Shaoxing','Eerduosi']
-
 def plot_color_point():
     plt.scatter([0, 1, 1.5, 2], [1, 2, 8, 3], s=100, c=[1, 10, 2, 5], cmap='rainbow')
     c = plt.colorbar()
