@@ -83,8 +83,6 @@ def checkin_entropy_of_each_city():
 
     plt.figure(facecolor='white')
     k=0
-
-
     for i in city_entropy:
         k+=1
         plt.subplot(int('1'+str(len(ghost_city_pinyin))+str(k)))
